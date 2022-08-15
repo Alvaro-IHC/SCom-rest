@@ -33,6 +33,10 @@ Epic:
 -Camarero (John)
 
 -Cajero (Jimmy)
+  -Creacion de endpoint para adicionar clientes [BE]
+  -Creacion de endpoint para proceso de facturacion y cobro de consumo [BE]
+  -Creacion de endpoint informes de Ingresos y egresos mensuales[BE]
+  -Creacion de vista para el cajero [FE]
 
 -Usuario Casual
   -Creacion de endpoint para listar los productos [BE]
