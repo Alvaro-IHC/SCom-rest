@@ -26,8 +26,9 @@ Epic:
   -Creacion de vista para listar usuarios filtrados [FE]
   -Creacion de vista para agregar/modificar usuarios [FE]
   -Creacion de endpoints para modificar la carta del menu [BE]
-
-  -Creacion de endpoints para listar usuarios filtrados [BE]
+  -Creacion de vista para modificar la carta del menu [FE]
+  -Creacion de endpoints para modificar el sistema [BE]
+  -Creacion de vista para modificar el sistema [FE]
 -Chef (Augusto)
 
 -Camarero (John)
