@@ -19,7 +19,15 @@ Epic:
   -Creacion de la vista de Sign in [FE]
   -Creacion de la vista de Sign up [FE]
 -Administracion
-  -Creacion de endpoints
+  -Creacion de endpoint para listar usuarios filtrados [BE]
+  -Creacion de endpoint para eliminar usuarios [BE]
+  -Creacion de endpoint para agregar usuarios [BE]
+  -Creacion de endpoint para modificar usuarios [BE]
+  -Creacion de vista para listar usuarios filtrados [FE]
+  -Creacion de vista para agregar/modificar usuarios [FE]
+  -Creacion de endpoints para modificar la carta del menu [BE]
+
+  -Creacion de endpoints para listar usuarios filtrados [BE]
 -Chef (Augusto)
 
 -Camarero (John)
