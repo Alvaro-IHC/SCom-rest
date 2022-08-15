@@ -23,7 +23,9 @@ Epic:
 -Chef (Augusto)
 
 -Camarero (John)
-
+  -Creación de endpoint para listar los pedidos mostrando los platos que tiene (FE)
+  -Creación de vista para ver los pedidos y adicionar platos al pedido, como también ver los que ya incluye (BE)
+  
 -Cajero (Jimmy)
   -Creacion de endpoint para adicionar clientes [BE]
   -Creacion de endpoint para proceso de facturacion y cobro de consumo [BE]
