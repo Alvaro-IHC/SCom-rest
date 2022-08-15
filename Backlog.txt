@@ -1,0 +1,40 @@
+Epic:
+
+
+-Infraestructura de BE
+  -Preparacion del entorno de trabajo
+  -Creacion del repositorio
+  -Creacion BD
+  -Configuracion inicial del proyecto
+  -Definicion de usuarios
+-Infraestructura de FE/Mobile
+  -Bosquejo de maquetacion
+  -Preparacion del entorno de trabajo
+  -Creacion del repositorio
+  -Configuracion inicial del proyecto
+  -Maquetacion
+-Autenticacion
+  -Congiguracion de Spring-Security [BE]
+  -Definición de los endpoints [BE]
+  -Creacion de la vista de Sign in [FE]
+  -Creacion de la vista de Sign up [FE]
+-Administracion
+  -Creacion de endpoints
+-Chef (Augusto)
+
+-Camarero (John)
+
+-Cajero (Jimmy)
+
+-Usuario Casual
+  -Creacion de endpoint para listar los productos [BE]
+  -Creacion de endpoint para listar las preguntas frecuentes [BE] *
+  -Creacion de vista para listar los productos [FE]
+  -Creacion de vista para listar las preguntas frecuentes [FE]
+  -Creacion de vista de inicio [FE]
+  -Creacion de vista de Contactanos [FE]
+  -Creacion de vista de Sobre Nosotros [FE]
+
+-Cliente (Carlos)
+
+
