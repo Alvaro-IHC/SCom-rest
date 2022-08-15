@@ -29,7 +29,13 @@ Epic:
   -Creacion de vista para modificar la carta del menu [FE]
   -Creacion de endpoints para modificar el sistema [BE]
   -Creacion de vista para modificar el sistema [FE]
+
 -Chef (Augusto)
+  -Definicion del rol Chef
+  -Creacion de vista de solicitud de ingredientes [FE]
+  -Creacion de EndPoint para listar los ingredientes [BE]
+  -Creacion de vista de solicitud de ingredientes Mobile [FE]
+  -Creacion de EndPoint para listar los ingredientes Mobile [BE]
 
 -Camarero (John)
   -Creación de endpoint para listar los pedidos mostrando los platos que tiene (FE)
