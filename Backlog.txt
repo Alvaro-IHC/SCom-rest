@@ -57,5 +57,10 @@ Epic:
   -Creacion de vista de Sobre Nosotros [FE]
 
 -Cliente (Carlos)
-
+  -Creacion de endpoint para ingresar productos a un pedido [BE]
+  -Creacion de endpoint para eliminar productos a un pedido [BE]
+  -Creacion de endpoint para realizar un pedido productos a un pedido [BE]
+  -Creacion de endpoint para catalogar los productos a eleccion [BE]
+  -Creacion de endpoint para cambiar de vista segun usuario casual [BE]
+  -Creacion de la vista de orden de pedidos [FE]
 
